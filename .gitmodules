@@ -1,0 +1,6 @@
+[submodule "TableFi"]
+	path = TableFi
+	url = https://github.com/rilwan99/Solana-Wallet-Dapp.git
+[submodule "TableFi_python_be"]
+	path = TableFi_python_be
+	url = https://github.com/rilwan99/TableFi_python_be.git
